@@ -11,26 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Neuroscience, University of California, San Francisco, 2026 (expected)
+* M.S. in Neuroscience, University of California, San Francisco, 2023
+* B.S. in Biochemistry and Cell Biology, The Hong Kong University of Science and Technology, 2021
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022: Effects of mu-opioid receptor activation in synaptic depression and short-term plasticity
+  * University of California, San Francisco
+  * Performed ex vivo patch-clamp recordings on layer 5 pyramidal cells and characterized responses evoked by optical and electrical stimulation under bath application of mu-opioid-receptor agonist.
+  * Supervisor: Prof. Kevin Bender
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021: Basal ganglia network activity after motor cortex stroke
+  * University of California, San Francisco
+  * Designed and built custom recording devices to measure activity changes in the striatum and motor thalamus after photothrombotic stroke in the motor cortex
+  * Supervisor: Prof. Jeanne Paz
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021: Pallidostriatal connections in levodopa-induced dyskinesia
+  * University of California, San Francisco
+  * Measured inhibitory postsynaptic currents in medium spiny neurons evoked by optical stimulation of axons from pallidal neurons in parkinsonian mice chronically treated with levodopa
+  * Supervisor: Prof. Alexandra Nelson
+
+* 2021: Pallidostriatal connections in levodopa-induced dyskinesia
+  * University of California, San Francisco
+  * Measured inhibitory postsynaptic currents in medium spiny neurons evoked by optical stimulation of axons from pallidal neurons in parkinsonian mice chronically treated with levodopa
+  * Supervisor: Prof. Alexandra Nelson
   
 Skills
 ======
