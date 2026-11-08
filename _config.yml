@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Isaac Chang's personal website"
 title_separator          : "-"
-name                     : &name "Isaac Chang"
+name                     : &name "Isaac Chang, PhD"
 description              : &description "personal description"
 url                      : "https://isaachkchang.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,11 +23,11 @@ repository               : "isaachkchang/isaachkchang.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Isaac Chang"
+  name             : "Isaac Chang, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Electrophysiologist interested in neural circuits underlying motor behavior"
-  location         : "San Francisco, US"
-  employer         : "University of California, San Francisco"
+  bio              : "Marketing supervisor at Canton Biologics"
+  location         : "Guangzhou, China"
+  employer         : "Canton Biologics
   uri              : # URL
   email            : "isaachkchang@gmail.com" 
 
@@ -60,7 +60,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : isaachkchang
+  instagram        : isaaclllchang
   lastfm           : # Username
   linkedin         : isaac-chang-557ab8193
   mastodon         : # URL

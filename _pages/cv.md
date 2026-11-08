@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Neuroscience, University of California, San Francisco, 2026 (expected)
-* M.S. in Neuroscience, University of California, San Francisco, 2023
+* Ph.D in Neuroscience, University of California, San Francisco, 2026
 * B.S. in Biochemistry and Cell Biology, The Hong Kong University of Science and Technology, 2021
 
 Research experience
